@@ -4,4 +4,6 @@ Esse projeto é inspirado na técnica Pomodoro, que visa a concentração em tar
 •	HTML; </br>
 •	CSS; </br>
 •	Funções; </br>
-•	Métodos do JavaScript </br>
+•	Métodos do JavaScript </br></br>
+
+https://yasmimdias1.github.io/timerPomodoro/
